@@ -1,6 +1,6 @@
 # pic2pdf
 
-A simple command line tool to convert a folder of images into a single pdf.\
+A simple command line tool to convert a folder of images into a single pdf.
 ### Usage:
 ```pyhton pic2pdf <insert desired path of output pdf> <insert path to directory of images> <<optional switches>>```
 
